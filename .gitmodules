@@ -1,0 +1,4 @@
+[submodule "the-can-project"]
+	path = the-can-project
+	url = git@bitbucket.org:thecanproject/the-can-project.git
+	branch = master
